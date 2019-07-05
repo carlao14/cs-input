@@ -9,7 +9,7 @@
 <script>
   export default {
     props: ['label','tamanho'],
-    data() {
+    data() { teste
         return {
             
         }
